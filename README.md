@@ -68,9 +68,9 @@ It’s important because it helps clean the data, choose the right models, and m
 ## 6. Difference between heatmap and pairplot?
 
 - **Heatmap**: Displays the strength of correlation between variables using colors.
-- **Pairplot**: Shows pairwise relationships with scatterplots and histograms for all combinations of variables.                                                                                      
+- **Pairplot**: Shows pairwise relationships with scatterplots and histograms for all combinations of variables.
 
-## 7. How do you summarize your insights? (in 2 lines)
+## 7. How do you summarize your insights?
 
 "I summarize insights by highlighting key patterns, trends, and anomalies observed in the data, backed by visualizations.  
 I also mention how these findings can guide business or project decisions."
