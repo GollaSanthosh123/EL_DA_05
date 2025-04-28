@@ -34,7 +34,7 @@ This project involves cleaning, analyzing, and visualizing the Titanic dataset t
 - Scatter plots
 - Box plots
 - Pair plots
-- Correlation heatmap
+- Correlation heatmap etc.
 
 # Interview Questions
 
